@@ -1,0 +1,152 @@
+{
+  "researchDate": "2026-09-17",
+  "categories": [
+    "National English newspapers",
+    "Regional newspapers",
+    "Magazines and digital publications",
+    "National television",
+    "Regional television"
+  ],
+  "totals": {
+    "verifiedRecords": 58,
+    "publishers": 17,
+    "categories": {
+      "Regional newspapers": 33,
+      "National English newspapers": 10,
+      "Magazines and digital publications": 11,
+      "National television": 2,
+      "Regional television": 2
+    },
+    "publisherTotals": {
+      "Loksatta": 4,
+      "The Times of India": 3,
+      "Janta Se Rishta": 1,
+      "Pune Pulse": 1,
+      "The Indian Express": 4,
+      "Maharashtra Times": 1,
+      "Moneycontrol": 9,
+      "Hindustan Times": 1,
+      "ET Now": 1,
+      "TCS — pArivartana": 1,
+      "The Economic Times": 1,
+      "Sakal": 1,
+      "Business Standard": 1,
+      "ABP Majha": 2,
+      "Aaj Ka Anand": 23,
+      "Navabharat": 3,
+      "Zee Business": 1
+    },
+    "coverageTypes": {
+      "Quotation": 24,
+      "Interview": 6,
+      "Mention": 17,
+      "Authored article": 10,
+      "Panel discussion": 1
+    },
+    "languages": {
+      "Marathi": 8,
+      "English": 22,
+      "Hindi": 28
+    },
+    "missingPublicationDate": 12,
+    "originalDecisions": {
+      "Awaiting source review": 1388,
+      "Not included — no established DG evidence": 1524,
+      "Verified source reused": 15,
+      "Duplicate source consolidated": 1,
+      "Clipping review required": 1487,
+      "Verified linked clipping — not counted separately": 1,
+      "Issue-level review required": 65
+    },
+    "originalEntries": 4481,
+    "newResearchFollowUps": 54
+  },
+  "publisherMapping": [
+    {
+      "publisher": "The Times of India",
+      "category": "National English newspapers",
+      "reason": "National English daily; Pune city edition remains in the national newspaper category."
+    },
+    {
+      "publisher": "The Indian Express",
+      "category": "National English newspapers",
+      "reason": "National English daily; a city edition does not change the outlet category."
+    },
+    {
+      "publisher": "Hindustan Times",
+      "category": "National English newspapers",
+      "reason": "National English daily."
+    },
+    {
+      "publisher": "Business Standard",
+      "category": "National English newspapers",
+      "reason": "National English business newspaper."
+    },
+    {
+      "publisher": "The Economic Times",
+      "category": "National English newspapers",
+      "reason": "National English business newspaper; ET Online is its digital edition."
+    },
+    {
+      "publisher": "Sakal",
+      "category": "Regional newspapers",
+      "reason": "Maharashtra regional newspaper."
+    },
+    {
+      "publisher": "Loksatta",
+      "category": "Regional newspapers",
+      "reason": "Maharashtra regional newspaper, including its online video section."
+    },
+    {
+      "publisher": "Maharashtra Times",
+      "category": "Regional newspapers",
+      "reason": "Maharashtra regional newspaper."
+    },
+    {
+      "publisher": "Janta Se Rishta",
+      "category": "Regional newspapers",
+      "reason": "Regional newspaper with Chhattisgarh editions and an e-paper; this item reports an IANS interview."
+    },
+    {
+      "publisher": "Moneycontrol",
+      "category": "Magazines and digital publications",
+      "reason": "Business and financial digital publication."
+    },
+    {
+      "publisher": "TCS — pArivartana",
+      "category": "Magazines and digital publications",
+      "reason": "Institutional publication published by TCS, not independent press."
+    },
+    {
+      "publisher": "Pune Pulse",
+      "category": "Magazines and digital publications",
+      "reason": "Local digital news publication; digital does not imply national reach."
+    },
+    {
+      "publisher": "ET Now",
+      "category": "National television",
+      "reason": "National television business news channel; specific official episode identified."
+    },
+    {
+      "publisher": "ABP Majha",
+      "category": "Regional television",
+      "reason": "Regional Marathi television news channel; specific official video identified."
+    },
+    {
+      "publisher": "Aaj Ka Anand",
+      "category": "Regional newspapers",
+      "reason": "Pune print newspaper archive; explicitly mapped outlet, not inferred from language."
+    },
+    {
+      "publisher": "Navabharat",
+      "category": "Regional newspapers",
+      "reason": "Pune print newspaper archive; explicitly mapped outlet, not inferred from language."
+    },
+    {
+      "publisher": "Zee Business",
+      "category": "National television",
+      "reason": "National business broadcaster. MCCIA is the uploader of the verified institutional copy, not its broadcaster."
+    }
+  ],
+  "scope": "Verified research subset; not a complete census of media coverage. Date filters use publication/broadcast dates, never upload or discovery dates."
+}
